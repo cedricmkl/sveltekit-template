@@ -1,0 +1,1 @@
+Sveltekit + AuthJS + Tailwindcss + Drizzle + Components + User management template
